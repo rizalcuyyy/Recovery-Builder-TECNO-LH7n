@@ -14,11 +14,11 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
-  DEVICE: KD7
+  DEVICE: TECNO-LH7n
   DT_LINK: https://github.com/mastersenpai0405/recovery_device_tecno_KD7
-  DT_PATH: device/tecno/KD7
+  DT_PATH: device/tecno/TECNO-LH7n
   TARGET: recoveryimage
-  TZ: Asia/manila
+  TZ: Asia/Indonesia
 
 jobs:
   build:
