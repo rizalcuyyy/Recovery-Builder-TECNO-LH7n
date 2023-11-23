@@ -18,7 +18,7 @@ env:
   DT_LINK: https://github.com/hozin-king/android_device_tecno_TECNO-LH7n.git
   DT_PATH: device/tecno/TECNO-LH7n
   TARGET: recoveryimage
-  TZ: Asia/Indonesia
+  TZ: Asia/manila
 
 jobs:
   build:
